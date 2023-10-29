@@ -47,8 +47,8 @@
         <h2>Pendidikan</h2>
         <ul>
             <li>SDS Muhammadiyah 3 Jakarta : 2008-2014</li>
-            <li>SMP Negeri 7 Contoh: 2014-2017</li>
-            <li>SMA Negeri 54 Contoh: 2017-2020</li>
+            <li>SMP Negeri 7  2014-2017</li>
+            <li>SMA Negeri 54  2017-2020</li>
         </ul>
        
     </div>
